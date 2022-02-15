@@ -3,6 +3,7 @@
 # Игнорирование по типу файла, будут игнорироваться в АБСОЛЮТНО всех директориях
 # Например /files/data.zip, /server.log, /uploads/users/data/info.xls
 *.sdf
+*.cfg
 *.sln
 *.vcxproj
 *.vcxproj.filters
@@ -15,6 +16,8 @@
 *.pdb
 *.exe
 *.ilk
+*.cfd
+*.idea
 # Игнорирование файла во ВСЕХ директориях
 # Например /params/db/config.php, /config.php
 # config.php
@@ -45,6 +48,9 @@
 # Игнорирование ВСЕХ файлов и папок внутри директории /secret,
 # за исключением файла /secret/free.txt, он не будет проигнорирован
 **/Debug/*
+**/Lib/*
+**/Scripts/*
+**/venv/*
 # !/secret/free.txt
 # Игнорирование файла с именем, содержащим спецсимволы
 # Например !readme!.txt

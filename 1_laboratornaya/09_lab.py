@@ -1,5 +1,3 @@
-print('Введите город вылета:')
-departure_city = input()
-print('Введите город прилета:')
-arrival_city = input()
+departure_city = input('Введите город вылета: ')
+arrival_city = input('Введите город прилета: ')
 print(departure_city, '-', arrival_city)
