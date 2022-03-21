@@ -2,8 +2,7 @@ hidden_number = int(input('Загадайте число от 0 до 100: '))
 low_limit = 0
 upper_limit = 100
 counter = 1
-true = 1
-while true:
+while True:
     N = int((upper_limit + low_limit) / 2)
     print('Твоё число равно, меньше или больше, чем число', N, '? (1 - равно, 2 - больше, 3 - меньше)')
     k = int(input())
