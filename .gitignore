@@ -51,6 +51,7 @@
 **/Lib/*
 **/Scripts/*
 **/venv/*
+**/.ipynb_checkpoints/*
 # !/secret/free.txt
 # Игнорирование файла с именем, содержащим спецсимволы
 # Например !readme!.txt

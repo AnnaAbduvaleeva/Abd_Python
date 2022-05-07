@@ -1,0 +1,8 @@
+Василий test@test.ru 27
+Анна test@test.ru 21
+Дмитрий test@test.com 21
+Ксения test@test.ru 17
+Вера test@test.ru 1
+Пётр123 test@test.ru 28
+Иван test@testru 37
+Степан 46
